@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/20180214TestCSVRead.unity
+  isLoaded: 1
+  isActive: 1
